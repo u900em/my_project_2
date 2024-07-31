@@ -1,0 +1,1 @@
+<h3><a href="verification_mail2?<?php echo $sess; ?>" onclick="">Click on in the link for verefication your email.</a></h3>
